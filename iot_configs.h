@@ -1,15 +1,13 @@
-// Copyright (c) Microsoft Corporation. All rights reserved.
-// SPDX-License-Identifier: MIT
 #ifndef IOTCONFIGS
 #define IOTCONFIGS
 // Wifi
-#define IOT_CONFIG_WIFI_SSID "Access Denied"
-#define IOT_CONFIG_WIFI_PASSWORD "meoadeobllei"
+#define IOT_CONFIG_WIFI_SSID ""
+#define IOT_CONFIG_WIFI_PASSWORD ""
 
 // Azure IoT
-#define IOT_CONFIG_IOTHUB_FQDN "IoTHub-cheesepress.azure-devices.net"
-#define IOT_CONFIG_DEVICE_ID "cheesepress"
-#define IOT_CONFIG_DEVICE_KEY "JgzGKTq0crEh9UJDsNifnSLE98rClY5HE6GJAh6s8AQ="
+#define IOT_CONFIG_IOTHUB_FQDN ""
+#define IOT_CONFIG_DEVICE_ID ""
+#define IOT_CONFIG_DEVICE_KEY ""
 
 // Publish 1 message every 2 seconds
 #define TELEMETRY_FREQUENCY_MILLISECS 2000

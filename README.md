@@ -42,12 +42,12 @@ I glued the cracked cutting board back together and then glued it to the large c
 
 
 ## Press Parts List
-2 16" x 5/16" threaded rods + nuts and washers
-1/2" angle iron
-12"x18" 1.5" thick wood base
-[Linear Actuator 100N 4" 12V DC](https://www.amazon.com/dp/B07H4KLFM7/?coliid=I138LPJMLOMS24&colid=IOLMGL6Q9GYB&psc=1&ref_=lv_ov_lig_dp_it)
-[Farberware 3 piece bamboo cutting boards](https://www.amazon.com/Farberware-5070344-Bamboo-Cutting-Board/dp/B004GJXE0E/ref=sr_1_4?keywords=farberware%2bbamboo%2bcutting%2bboards&qid=1638247838&s=industrial&sr=1-4&th=1)
-Hobby Lobby wood box with lid
+1. 2 16" x 5/16" threaded rods + nuts and washers
+2. 1/2" angle iron
+3. 12"x18" 1.5" thick wood base
+4. [Linear Actuator 100N 4" 12V DC](https://www.amazon.com/dp/B07H4KLFM7/?coliid=I138LPJMLOMS24&colid=IOLMGL6Q9GYB&psc=1&ref_=lv_ov_lig_dp_it)
+5. [Farberware 3 piece bamboo cutting boards](https://www.amazon.com/Farberware-5070344-Bamboo-Cutting-Board/dp/B004GJXE0E/ref=sr_1_4?keywords=farberware%2bbamboo%2bcutting%2bboards&qid=1638247838&s=industrial&sr=1-4&th=1)
+6. Hobby Lobby wood box with lid
 
 # Circuit Design
 I consulted several EE co-workers on PCB design and they said it was overkill. They use breadboards and solderless connections on hobby projects that last years. Taking their advice I used screws and hot glue to assemble the circuit components in the case. </shame_off> I will master AutoCAD before creating a Kickstarter project. The DPDT switch is in not included in the circuit diagram
